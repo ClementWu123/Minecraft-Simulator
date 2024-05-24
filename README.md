@@ -101,3 +101,7 @@ During each update cycle, the program verifies if the 81 chunks around the playe
 
 * **Procedurally placed assets **: Add CACTUS, RED_FLOWER, AND LONG/MID GRASS to the biome, for trees and cactus, use two noise function to determine one region, and in that region, only one tree can exist, for grass and flower, use one perlin noise to determine a position should place asset or not.   
 </details>
+
+# Sample Visual Scene
+
+![](demo/Result (1).jpg)
