@@ -104,4 +104,4 @@ During each update cycle, the program verifies if the 81 chunks around the playe
 
 # Sample Visual Scene
 
-![](demo/Result (1).jpg)
+![](Result1.jpg)
