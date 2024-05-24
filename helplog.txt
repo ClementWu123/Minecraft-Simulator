@@ -1,0 +1,6 @@
+April 15 3:48pm  Chunk loading issue - received help from TA
+April 17 4:12pm  debug multithread problem - received help from Adam
+April 22 4:34pm  chunk missing display problem - received help from TA
+April 27 8: 56pm  Shadow Mapping Tutorial - 
+https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping
+https://www.opengl-tutorial.org/intermediate-tutorials/tutorial-16-shadow-mapping/
